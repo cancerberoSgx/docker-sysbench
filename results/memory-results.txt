@@ -33,3 +33,20 @@ General statistics:
 Threads fairness:
     events (avg/stddev):           104857600.0000/0.00
     execution time (avg/stddev):   11.8369/0.00
+
+
+---
+
+General statistics:
+    total time:                          31.0982s
+    total number of events:              104857600
+    total time taken by event execution: 11.7589s
+    response time:
+         min:                                  0.00ms
+         avg:                                  0.00ms
+         max:                                  0.17ms
+         approx.  95 percentile:               0.00ms
+
+Threads fairness:
+    events (avg/stddev):           104857600.0000/0.00
+    execution time (avg/stddev):   11.7589/0.00
