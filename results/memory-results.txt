@@ -96,3 +96,28 @@ General statistics:
 Threads fairness:
     events (avg/stddev):           104857600.0000/0.00
     execution time (avg/stddev):   11.6733/0.00
+
+
+
+
+
+voidlinux
+
+Operations performed: 104857600 (3384499.54 ops/sec)
+
+102400.00 MB transferred (3305.18 MB/sec)
+
+
+General statistics:
+    total time:                          30.9817s
+    total number of events:              104857600
+    total time taken by event execution: 11.6610s
+    response time:
+         min:                                  0.00ms
+         avg:                                  0.00ms
+         max:                                  0.25ms
+         approx.  95 percentile:               0.00ms
+
+Threads fairness:
+    events (avg/stddev):           104857600.0000/0.00
+    execution time (avg/stddev):   11.6610/0.00

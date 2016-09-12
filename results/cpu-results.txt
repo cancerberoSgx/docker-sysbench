@@ -268,3 +268,40 @@ General statistics:
 Threads fairness:
     events (avg/stddev):           10000.0000/0.00
     execution time (avg/stddev):   11.7561/0.00
+
+
+
+
+
+
+
+voidlinux: 
+General statistics:
+    total time:                          12.5883s
+    total number of events:              10000
+    total time taken by event execution: 12.5825s
+    response time:
+         min:                                  1.15ms
+         avg:                                  1.26ms
+         max:                                  2.42ms
+         approx.  95 percentile:               1.37ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   12.5825/0.00
+
+---
+
+General statistics:
+    total time:                          12.5031s
+    total number of events:              10000
+    total time taken by event execution: 12.4969s
+    response time:
+         min:                                  1.15ms
+         avg:                                  1.25ms
+         max:                                  2.88ms
+         approx.  95 percentile:               1.34ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   12.4969/0.00
