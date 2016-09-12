@@ -146,7 +146,37 @@ Threads fairness:
 
 
 
+arch linux guest: 
 
+General statistics:
+    total time:                          11.6841s
+    total number of events:              10000
+    total time taken by event execution: 11.6818s
+    response time:
+         min:                                  1.15ms
+         avg:                                  1.17ms
+         max:                                  3.09ms
+         approx.  95 percentile:               1.23ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   11.6818/0.00
+
+----
+
+General statistics:
+    total time:                          11.6630s
+    total number of events:              10000
+    total time taken by event execution: 11.6608s
+    response time:
+         min:                                  1.15ms
+         avg:                                  1.17ms
+         max:                                  3.07ms
+         approx.  95 percentile:               1.19ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   11.6608/0.00
 
 
 
