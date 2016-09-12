@@ -1,5 +1,6 @@
 cd hostShared
 git clone https://github.com/akopytov/sysbench.git
+cd ..
 
 rm -rf dockers/alphine/hostShared
 cp -rf hostShared dockers/alphine/
