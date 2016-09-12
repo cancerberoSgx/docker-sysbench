@@ -1,0 +1,35 @@
+alphine
+
+General statistics:
+    total time:                          25.9134s
+    total number of events:              104857600
+    total time taken by event execution: 11.7776s
+    response time:
+         min:                                  0.00ms
+         avg:                                  0.00ms
+         max:                                  0.18ms
+         approx.  95 percentile:               0.00ms
+
+Threads fairness:
+    events (avg/stddev):           104857600.0000/0.00
+    execution time (avg/stddev):   11.7776/0.00
+
+
+
+
+
+archlinux host : 
+
+General statistics:
+    total time:                          31.1875s
+    total number of events:              104857600
+    total time taken by event execution: 11.8369s
+    response time:
+         min:                                  0.00ms
+         avg:                                  0.00ms
+         max:                                  0.02ms
+         approx.  95 percentile:               0.00ms
+
+Threads fairness:
+    events (avg/stddev):           104857600.0000/0.00
+    execution time (avg/stddev):   11.8369/0.00
