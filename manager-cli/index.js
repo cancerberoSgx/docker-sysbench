@@ -4,8 +4,8 @@ var shell = require('shelljs')
 
 var Tool = function()
 {
-
 }
+
 Object.assign(Tool.prototype, {
 	dispatchCommand: function(cmd)
 	{
